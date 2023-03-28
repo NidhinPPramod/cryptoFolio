@@ -1,0 +1,14 @@
+.home-page{
+    background-color: #EEEEEE;
+    background: scroll;
+    height: 100vh;
+    width: 100%;
+    margin: 0;
+}
+.navbar{
+    background-color: #4E6E81;
+    font-family: 'Space Mono', monospace;
+}
+::-webkit-scrollbar {
+    display: none;
+}
